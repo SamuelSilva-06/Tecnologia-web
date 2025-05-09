@@ -1,4 +1,4 @@
-📚 Estudo em Tecnologia Web
+# Tecnologia-Web
 
 Repositório criado como parte da disciplina de Tecnologia Web no Instituto Federal do Ceará – Campus Morada Nova, do professor Alexandre.
 
